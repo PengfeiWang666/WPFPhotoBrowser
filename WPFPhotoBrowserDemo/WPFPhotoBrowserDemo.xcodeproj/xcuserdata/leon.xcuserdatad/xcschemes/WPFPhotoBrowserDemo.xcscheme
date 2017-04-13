@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35C490661E8642F700CAE168"
-               BuildableName = "WPFPhotoBrowser.app"
-               BlueprintName = "WPFPhotoBrowser"
-               ReferencedContainer = "container:WPFPhotoBrowser.xcodeproj">
+               BlueprintIdentifier = "3577979C1E9F7C6B00463FAC"
+               BuildableName = "WPFPhotoBrowserDemo.app"
+               BlueprintName = "WPFPhotoBrowserDemo"
+               ReferencedContainer = "container:WPFPhotoBrowserDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35C4907F1E8642F700CAE168"
-               BuildableName = "WPFPhotoBrowserUITests.xctest"
-               BlueprintName = "WPFPhotoBrowserUITests"
-               ReferencedContainer = "container:WPFPhotoBrowser.xcodeproj">
+               BlueprintIdentifier = "357797B51E9F7C6B00463FAC"
+               BuildableName = "WPFPhotoBrowserDemoUITests.xctest"
+               BlueprintName = "WPFPhotoBrowserDemoUITests"
+               ReferencedContainer = "container:WPFPhotoBrowserDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35C490661E8642F700CAE168"
-            BuildableName = "WPFPhotoBrowser.app"
-            BlueprintName = "WPFPhotoBrowser"
-            ReferencedContainer = "container:WPFPhotoBrowser.xcodeproj">
+            BlueprintIdentifier = "3577979C1E9F7C6B00463FAC"
+            BuildableName = "WPFPhotoBrowserDemo.app"
+            BlueprintName = "WPFPhotoBrowserDemo"
+            ReferencedContainer = "container:WPFPhotoBrowserDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35C490661E8642F700CAE168"
-            BuildableName = "WPFPhotoBrowser.app"
-            BlueprintName = "WPFPhotoBrowser"
-            ReferencedContainer = "container:WPFPhotoBrowser.xcodeproj">
+            BlueprintIdentifier = "3577979C1E9F7C6B00463FAC"
+            BuildableName = "WPFPhotoBrowserDemo.app"
+            BlueprintName = "WPFPhotoBrowserDemo"
+            ReferencedContainer = "container:WPFPhotoBrowserDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -84,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35C490661E8642F700CAE168"
-            BuildableName = "WPFPhotoBrowser.app"
-            BlueprintName = "WPFPhotoBrowser"
-            ReferencedContainer = "container:WPFPhotoBrowser.xcodeproj">
+            BlueprintIdentifier = "3577979C1E9F7C6B00463FAC"
+            BuildableName = "WPFPhotoBrowserDemo.app"
+            BlueprintName = "WPFPhotoBrowserDemo"
+            ReferencedContainer = "container:WPFPhotoBrowserDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

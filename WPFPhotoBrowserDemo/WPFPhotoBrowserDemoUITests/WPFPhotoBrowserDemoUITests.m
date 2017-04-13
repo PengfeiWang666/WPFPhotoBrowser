@@ -1,18 +1,18 @@
 //
-//  WPFPhotoBrowserUITests.m
-//  WPFPhotoBrowserUITests
+//  WPFPhotoBrowserDemoUITests.m
+//  WPFPhotoBrowserDemoUITests
 //
-//  Created by Leon on 2017/3/25.
+//  Created by Leon on 2017/4/13.
 //  Copyright © 2017年 Leon. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface WPFPhotoBrowserUITests : XCTestCase
+@interface WPFPhotoBrowserDemoUITests : XCTestCase
 
 @end
 
-@implementation WPFPhotoBrowserUITests
+@implementation WPFPhotoBrowserDemoUITests
 
 - (void)setUp {
     [super setUp];

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>WPFPhotoBrowser.xcscheme</key>
+		<key>WPFPhotoBrowserDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>35C490661E8642F700CAE168</key>
+		<key>3577979C1E9F7C6B00463FAC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>35C4907F1E8642F700CAE168</key>
+		<key>357797B51E9F7C6B00463FAC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
